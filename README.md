@@ -9,3 +9,5 @@ Oh, almost forgot. Here is my useless README.md's card:
 
 [![CoolestGuy94's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolestguy94&theme=dark)](https://github.com/coolestguy94/github-readme-stats)
 
+pop:
+![popbob certified no haram 2012 sex dupe 144p free download](https://img.shields.io/badge/-popbob_sex_dupe_no_haram_144p_2011_no_4chan_pedophiles_sex_backdoor_halal-red?style=flat-square)
