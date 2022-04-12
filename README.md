@@ -1,14 +1,5 @@
 ## Hi. I'm **CoolestGuy94**.
-Currently known for *nothing*. I'll might start uploading *NBT*'s for some *Minecraft* items here
-
-If you don't familiar with *NBT*'s, this is a *data* stored inside your item, block. It sometimes stored inside the *player* or *entity*.
-It's like an... organism? 
-I don't really know how to explain this one.
-
-Oh, almost forgot. Here is my useless README.md's card:
-
-[![CoolestGuy94's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolestguy94&theme=dark)](https://github.com/coolestguy94/github-readme-stats)
-
-pop:
-
-![popbob certified no haram 2012 sex dupe 144p free download](https://img.shields.io/badge/-popbob_sex_dupe_no_haram_144p_2011_no_4chan_pedophiles_sex_backdoor_halal-red?style=flat-square)
+What do you expect me to do here? :^)
+I usually fork something for "*reasons*"
+Sometimes I make some useless python script's.
+Sometimes... just sometimes...
